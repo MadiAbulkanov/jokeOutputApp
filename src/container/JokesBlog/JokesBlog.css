@@ -1,0 +1,15 @@
+.container {
+    max-width: 650px;
+    height: 550px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #032830;
+    text-align: center;
+    color: #37d1f6;
+}
+
+.wraper {
+    border-top: 1px solid white;
+    margin-top: 40px;
+    padding-top: 10px;
+}
